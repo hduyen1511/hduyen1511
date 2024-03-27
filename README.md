@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duyen</h1>
-<h3 align="center">A passionate person from Ninh Thuan province.</h3>
+<h3 align="center">An enthusiastic girl from Ninh Thuan province.</h3>
 <p align="left">
 </p>
 
